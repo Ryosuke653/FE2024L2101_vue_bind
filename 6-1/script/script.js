@@ -4,5 +4,8 @@ new Vue({
       return {
         
       };
+    },
+    computed: {
+      
     }
   });
